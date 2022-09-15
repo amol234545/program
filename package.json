@@ -1,0 +1,17 @@
+{
+  "name": "syncdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "roblox"
+  ],
+  "author": "SyncFile",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^20.1.4"
+  }
+}
